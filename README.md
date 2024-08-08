@@ -11,7 +11,7 @@ La carpeta `/docs` incluye toda la documentación relacionada con la app:
 - **Memoria del TFG:** [App-TFG-PAULAPOLEY.pdf](docs/App-TFG-PAULAPOLEY.pdf) - Contiene la documentación relevante para el proyecto. En particular, incluye la parte de la memoria del TFG que se enfoca en la aplicación web Dermocheck.
 
 ### 1.2. Capturas de pantalla
-La carpeta `/screenshots` incluye capturas de pantalla de las diferentes partes de la aplicación. Estas imágenes son útiles para visualizar la interfaz y las funcionalidades de la app.
+La carpeta `/screenshots` (screenshots/)  incluye capturas de pantalla de las diferentes partes de la aplicación. Estas imágenes son útiles para visualizar la interfaz y las funcionalidades de la app.
 
 ### 1.3. Código Fuente
 La carpeta `/src` contiene el código fuente de la aplicación web: [`App.py`](src/App.py) - Archivo principal que implementa la aplicación web desarrollada.
