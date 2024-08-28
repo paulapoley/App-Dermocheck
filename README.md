@@ -1,4 +1,4 @@
-# App-Dermocheck
+# Título: App-Dermocheck
 Este repositorio contiene el código, la documentación y los recursos relacionados con la aplicación **Dermocheck**, desarrollada como parte de mi Trabajo de Fin de Grado (TFG) sobre la influencia de las variables exógenas en la detección de enfermedades de piel mediante redes neuronales y análisis de imágenes médicas
 
 
